@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Demo : [Color Palette Generator]()
+
+![image](https://user-images.githubusercontent.com/97304314/235337003-6deee47d-4229-4917-8821-1ec72c8bfd1e.png)
+
+
 ## Getting Started
 
 First, run the development server:
